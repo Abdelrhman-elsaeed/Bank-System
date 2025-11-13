@@ -1,5 +1,7 @@
 # Bank System Project (OOP)
 
+![_-ezgif com-speed (1)](https://github.com/user-attachments/assets/ce810ac8-66e7-4277-8a22-d3809692b6fc)
+
 A C++ Bank System project demonstrating Object-Oriented Programming (OOP) principles. This repository showcases the rebuilding of a procedural bank system into a structured, reusable, and extensible OOP-based design.
 
 It was developed in phases to apply and practice real-world OOP concepts:
