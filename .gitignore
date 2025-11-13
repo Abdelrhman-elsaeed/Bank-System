@@ -1,0 +1,19 @@
+# Visual Studio cache
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+bin/
+obj/
+
+# Other files
+*.ipch
+*.pdb
+*.exe
+*.obj
+UpgradeLog.htm
